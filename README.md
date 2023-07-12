@@ -50,8 +50,8 @@
   <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
   &nbsp;
    <!-- Bootstrap -->
-  <a title = "Bootstrap" href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"  height= "45" width="50" /> </a>
-  &nbsp;
+<!--   <a title = "Bootstrap" href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"  height= "45" width="50" /> </a>
+  &nbsp; -->
   <!-- SQL  -->
   <a title = "Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
@@ -59,8 +59,8 @@
   <a title = "MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
   &nbsp;
  <!-- MongoDb -->
- <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
-  &nbsp; 
+<!--  <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
+  &nbsp;  -->
   <!-- git -->
   <a title = "Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
   &nbsp; 
